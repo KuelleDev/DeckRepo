@@ -9,3 +9,6 @@ Ancient Artifact
 Mystic Artifact
 Assembly Droid
 Naterran Great Tree
+Dutiful Steed
+Bullet Bike
+Arcane Personnel Carrier
