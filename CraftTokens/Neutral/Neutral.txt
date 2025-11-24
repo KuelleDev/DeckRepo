@@ -8,6 +8,7 @@ Puppet
 Ancient Artifact
 Mystic Artifact
 Assembly Droid
+Repair Mode
 Naterran Great Tree
 Dutiful Steed
 Bullet Bike
