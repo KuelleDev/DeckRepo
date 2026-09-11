@@ -4,10 +4,10 @@ Holy Tiger
 Mercurial Might
 Fox of Invitation
 Eschmali Adviser
-bp20-t07
-bp20-t08
-bp20-t09
-bp20-t10
-bp20-t11
+Marwynn Crest
+Himeka Crest
+Congregant Crest
+Supplicant Crest
+Jerry Crest
 Righteous Conviction
 Totem of Madness
